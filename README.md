@@ -9,12 +9,9 @@ All data and transaction of the system that involving worker and garden are impl
 
 This is example User Interface:
 
-<center>Login GUI</center>
+<h3>Login GUI</h3>
 <br>
-
 <img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/login.png" width="250">
-<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/login.png" width="250">
-
 <br>
 
 Dashboard GUI:
