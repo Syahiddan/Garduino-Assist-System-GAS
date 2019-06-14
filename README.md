@@ -1,5 +1,4 @@
 # Garduino-Assist-System-GAS
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 Mobile Application developed using Webview (HTML, Javascrript)
 
@@ -11,30 +10,29 @@ All data and transaction of the system that involving worker and garden are impl
 
 This is example User Interface:
 
-<div class="bg-info">Login GUI</div>
+<h3>Login GUI</h3>
 <img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/login.png" width="250">
 <br>
 
 <h3>Dashboard GUI</h3>
 <img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/dashboard.png" width="250">
 
-Place GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/PlaceActivity.png)
+<h3>Place GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/PlaceActivity.png" width="250">
 
-Plant GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/PlantActivity.png)
+<h3>Plant GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/PlantActivity.png" width="250">
 
-Worker Activity GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/WorkerActivity.png)
+<h3>Worker Activity GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/WorkerActivity.png" width="250">
 
-Worker Item GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/WorkerItem.png)
+<h3>Worker Item GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/WorkerItem.png" width="250">
 
-Worker Schedule GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/WorkerSchedule.png)
+<h3>Worker Schedule GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/WorkerSchedule.png" width="250">
+<h3>Feedback GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/feedbackActivity.png" width="250">
 
-Feedback GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/feedbackActivity.png)
-
-Update Profile GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/updateProfileActivity.png)
+<h3>Update Profile GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/updateProfileActivity.png" width="250">
