@@ -10,12 +10,11 @@ All data and transaction of the system that involving worker and garden are impl
 This is example User Interface:
 
 <h3>Login GUI</h3>
-<br>
 <img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/login.png" width="250">
 <br>
 
-Dashboard GUI:
-![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/dashboard.png)
+<h3>Dashboard GUI</h3>
+<img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/dashboard.png" width="250">
 
 Place GUI:
 ![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/PlaceActivity.png)
