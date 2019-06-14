@@ -13,6 +13,9 @@ This is example User Interface:
 Login GUI:
 <img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/login.png" width="250">
 <img src="https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/login.png" width="250">
+<br>
+<br>
+
 Dashboard GUI:
 ![Initial Phase](https://github.com/Syahiddan/Garduino-Assist-System-GAS/blob/master/GUI/dashboard.png)
 
